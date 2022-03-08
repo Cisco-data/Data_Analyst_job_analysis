@@ -1,2 +1,5 @@
-# Data_Analyst_job_analysis
-Analysis of different job roles within data analytics
+I was conducting some analysis on data analyst jobs. Where I looked at all sort of things like, the salary, job growth, whether they are remote positions, if you need any type of schooling or not and the tech stack they used for that specific position. I searched 20 different job postings on Indeed and then I inserted the data into an excel spread sheet. After that was concluded I used PostgreSQL to create a database for the data gathered. Once everything was created I used 3 different queries to answer these 3 questions.
+  What is the job growth for data analysts in the united states?
+  How many data analyst jobs are in Orlando, Florida that have salaies of $50,000 or more a year?
+  How many data analyst positions require a bachelors degree?
+NOTE: These are only 3 of the questions I answered because they are the top 3 questions I had when condcting this analysis. It is important to note that there could be more questions posed and answered with the data I collected. I am simply posting my top 3.
