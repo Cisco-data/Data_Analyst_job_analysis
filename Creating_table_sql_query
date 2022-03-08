@@ -1,0 +1,11 @@
+CREATE TABLE data_analyst(
+job_id SERIAL PRIMARY KEY,
+title VARCHAR(50),
+salary INTEGER,
+tech_stack VARCHAR(100),
+job_growth SMALLINT,
+remote VARCHAR(50),
+city VARCHAR(50),
+state VARCHAR(50),
+college VARCHAR(50)
+)
