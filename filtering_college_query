@@ -1,0 +1,3 @@
+SELECT salary,title,city,college
+FROM data_analyst 
+WHERE college='bachelors'
