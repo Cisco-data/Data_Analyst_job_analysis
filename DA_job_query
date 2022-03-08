@@ -1,0 +1,4 @@
+SELECT salary,title,city
+From data_analyst
+WHERE salary >=50000
+AND city='orlando'
